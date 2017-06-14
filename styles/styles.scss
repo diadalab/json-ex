@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: serif;
+
+}
+.container{
+  width: 70%;
+  background: linear-gradient(black, lightcoral);
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  height: 80%;
+  margin-bottom: 0;
+  color: white;
+  border-radius: 10%;
+}
+
+h1{
+  padding-top: 30px;
+}
+
+h3{
+ color:  white;
+}
+
+.btn{
+  border-radius: 10px;
+  padding: 5px;
+  font-size: 1.2em;
+  background-color: black;
+  color: white;
+}
+
+.input{
+  border-radius: 10px;
+  padding: 5px;
+  font-size: 1.2em;
+}
